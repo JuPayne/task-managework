@@ -25,4 +25,4 @@ To run this project:
 
 **Clone the repository**
    
-   git clone https://github.com/your-username/task-manager.git
+https://github.com/JuPayne/task-managework
