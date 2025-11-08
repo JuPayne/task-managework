@@ -33,4 +33,4 @@ Built by Judah Patrick-Payne as a portfolio project. Find me on http://linkedin.
 
 # License
 
-This project is open source and available under the MIT License LICENSE.
+This project is open source and available under the MIT License LICENSE
