@@ -26,3 +26,11 @@ To run this project:
 **Clone the repository**
    
 https://github.com/JuPayne/task-managework
+
+# About the Developer
+
+Built by Judah Patrick-Payne as a portfolio project. Find me on http://linkedin.com/in/judah-p-3107b021b 
+
+# License
+
+This project is open source and available under the MIT License LICENSE.
